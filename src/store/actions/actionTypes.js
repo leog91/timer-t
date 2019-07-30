@@ -1,0 +1,6 @@
+export const START_TIMER = "START_TIMER";
+export const STOP_TIMER = "STOP_TIMER";
+export const RESET_ALL_TIMERS = "RESET_ALL_TIMERS";
+export const PAUSE_CONTINUE_TIMER = "PAUSE_CONTINUE_TIMER";
+
+export const CLEAR_HISTORY = "CLEAR_HISTORY";
